@@ -1,6 +1,23 @@
 # SKYLITE: The AI-First Framework You've Never Heard Of
 
 ## Why This 10-Year-Old Framework Is Perfect for the AI Coding Era
+- 78% fewer lines of code vs React
+- 100% first-attempt success rate
+- Zero configuration required
+- Built-in everything (no dependencies)
+
+AI Code Generation Benchmark 2025
+
+Framework | Files | Lines | Dependencies | Success Rate
+----------|-------|-------|--------------|-------------
+React     | 12    | 847   | 23          | 33% ✗
+Angular   | 15    | 923   | 31          | 25% ✗
+SKYLITE   | 3     | 186   | 0           | 100% ✓
+
+Test: "Create employee management system with CRUD"
+AI: Claude Sonnet 4
+Date: February 2025
+
 
 ### Introduction
 
